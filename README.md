@@ -5,7 +5,7 @@ A small software workshop building simple and useful tools.
 
 我主要开发一些能解决实际问题的小项目：桌面工具、网站、后台系统、AI 应用、自动化脚本、物联网应用，以及面向日常工作的轻量工具。项目不追求复杂概念，重点是能运行、能交付、能帮别人节省时间。
 
-I build small, practical tools for real-world problems: desktop utilities, web applications, admin systems, AI experiments, automation scripts, IoT projects, and workflow helpers. The goal is simple: make software that runs, ships, and saves people time.
+I build small, practical tools for everyday problems: desktop utilities, web applications, admin systems, AI experiments, automation scripts, IoT projects, and workflow helpers. The goal is simple: make software that runs, ships, and saves people time.
 
 ## 我在做什么 · What I Build
 
