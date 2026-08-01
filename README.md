@@ -32,6 +32,14 @@ A Windows desktop utility for scanning local Codex, Claude Skill, and MCP config
 
 技术栈：Electron · JavaScript · HTML · CSS · PowerShell · GitHub Actions
 
+## 创作 · Creation
+
+昏灯照屏，长夜无声；在犹豫中寻找方向，在彷徨中守住初心。
+
+但丁困于流亡，以诗铸成《神曲》；司马迁忍于屈辱，以史写成《史记》；曹雪芹守于贫寒，以心血留下《红楼梦》；巴尔扎克困于债务，以笔力构筑《人间喜剧》；拿破仑以剑改写时代，巴尔扎克以笔回应时代。
+
+我们也以代码为笔，以工具为墨，完成一百个项目。不是为了凑成一个数字，而是以百次创作磨一份坚持，以百件工具成一项事业。
+
 ## 项目原则 · Project Principles
 
 1. 先解决问题，再追求复杂度。
