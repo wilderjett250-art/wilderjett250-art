@@ -48,6 +48,7 @@ A Windows desktop utility for scanning local Codex, Claude Skill, and MCP config
 
 - GitHub: [@wilderjett250-art](https://github.com/wilderjett250-art)
 - Email: wilderjett250@gmail.com
+- QQ: 2502175923
 
 欢迎查看项目、提出建议，或者分享一个值得做成小工具的真实问题。
 
