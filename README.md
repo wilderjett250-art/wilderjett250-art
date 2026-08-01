@@ -1,11 +1,11 @@
 # Horizon Quest To eXplore
 
-一个持续做实用小工具的小作坊。  
+一个持续做实用小工具的小作坊。
 专注效率与用户体验。
 
 我主要开发能够解决实际问题的小项目：桌面工具、网站、后台系统、AI 应用、自动化脚本、物联网应用，以及服务于日常工作的轻量工具。项目不追求复杂概念，而是注重真正可运行、可交付、可使用：帮助大家提高效率，节省时间和精力，并获得更顺畅、更愉快的使用体验。欢迎技术交流与经验分享。
 
-A small software workshop focused on practical tools.  
+A small software workshop focused on practical tools.
 Focused on efficiency and user experience.
 
 I build small projects that solve real, everyday problems—from desktop utilities and websites to admin systems, AI applications, automation scripts, IoT solutions, and lightweight tools for daily work. I value software that runs reliably, ships clearly, saves time and effort, improves efficiency, and feels pleasant to use. Technical discussions and collaboration are welcome.
