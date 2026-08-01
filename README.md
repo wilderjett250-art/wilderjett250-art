@@ -1,4 +1,4 @@
-# Horizon Quest World
+# Horizon Quest To eXplore
 
 一个持续做实用小工具的小作坊。  
 A small software workshop building simple and useful tools.
