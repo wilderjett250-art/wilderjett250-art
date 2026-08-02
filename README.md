@@ -35,10 +35,10 @@ A Windows desktop utility for scanning local Codex, Claude Skill, and MCP config
 
 ## 项目原则 · Project Principles
 
-1. 先解决问题，再追求复杂度。
+1. 先解决问题，再追求技术。
 2. 重要结果必须有可复现的验证记录。
 3. 源码、说明、构建产物和版本信息保持对应。
-4. 小工具也值得被认真整理和长期维护。
+4. 注重小工具的使用体验。
 
 1. Solve the problem before adding complexity.
 2. Important results should have reproducible verification.
