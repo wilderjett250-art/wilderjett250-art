@@ -15,7 +15,7 @@ I build small projects that solve real, everyday problems—from desktop utiliti
 
 - 把真实需求整理成可以运行的工具
 - 记录从源码、测试到发布的完整过程
-- 让小项目拥有清晰的 README、可复现的构建方式和可验证的交付物
+- 记录清晰的 README、可复现的代码和便于使用的交付物
 - 持续维护一个从 `001` 到 `100` 的项目系列
 
 - Turning real needs into working tools
