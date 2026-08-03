@@ -1,46 +1,77 @@
-# Horizon Quest To eXplore
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=860&lines=Small+tools.+Real+problems.;One+hundred+projects.;Build+it.+Ship+it.+Make+it+pleasant." alt="Small tools. Real problems." />
+</p>
 
-持续做实用小工具的小作坊。
+<p align="center">
+  <strong>Horizon Quest To eXplore</strong><br />
+  一个持续做实用小工具的小作坊。专注效率，也在意每一次使用的感受。
+</p>
 
-专注效率与用户体验。
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-001--100-58A6FF?style=flat-square" alt="Projects 001 to 100" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Tools%20%7C%20IoT-8250DF?style=flat-square" alt="Focus AI tools IoT" />
+  <img src="https://img.shields.io/badge/Build-Run%20%7C%20Ship%20%7C%20Improve-238636?style=flat-square" alt="Build run ship improve" />
+</p>
 
-开发能够解决实际问题的小项目：桌面工具、网站、后台系统、AI 应用、自动化脚本、物联网应用，以及服务于日常工作的轻量工具。项目注重真正可运行、可交付、可使用：提高效率，节省时间和精力，并获得更顺畅、更愉快的使用体验。欢迎技术交流与经验分享。
+> 昏暗的灯光下，把一次次犹豫和彷徨，慢慢做成可以运行、可以交付、也愿意被使用的东西。<br />
+> In long nights, turn uncertainty into something useful.
 
-A small software workshop focused on practical tools.
-Focused on efficiency and user experience.
+## What I'm building
 
-I build small projects that solve real, everyday problems—from desktop utilities and websites to admin systems, AI applications, automation scripts, IoT solutions, and lightweight tools for daily work. I value software that runs reliably, ships clearly, saves time and effort, improves efficiency, and feels pleasant to use. Technical discussions and collaboration are welcome.
+我主要做能解决真实问题的小项目：桌面工具、网站与后台、AI 应用、自动化脚本和物联网应用。
 
-## 我在做什么 · What I Build
+这 100 个项目不是为了堆数字，而是一次次把想法做成体验的练习：小一点、实一点、说清楚、跑起来，再持续变好。
 
-- 把真实需求整理成可以运行的工具
-- 记录从源码、测试到发布的完整过程
-- 记录清晰的 README、可复现的代码和便于使用的交付物
-- 持续维护一个从 `001` 到 `100` 的项目系列
+## Selected projects
 
-- Turning real needs into working tools
-- Documenting the full path from source code and tests to release
-- Giving small projects clear documentation, reproducible builds, and verifiable deliverables
-- Building a numbered project series from `001` to `100`
+<table>
+  <tr>
+    <th>项目</th>
+    <th>一句话介绍</th>
+    <th>方向</th>
+  </tr>
+  <tr>
+    <td>🪟 <a href="https://github.com/wilderjett250-art/seethrough-skill">SeeThrough Skill</a></td>
+    <td>扫描并查看本机 Skill 与 MCP 配置的桌面工具。</td>
+    <td>Electron · Local tools</td>
+  </tr>
+  <tr>
+    <td>📱 <a href="https://github.com/wilderjett250-art/017-anzhuoface">AnZhuoFace</a></td>
+    <td>Android 端侧人脸检测、年龄段估计与性别辅助识别。</td>
+    <td>Kotlin · ONNX · Android</td>
+  </tr>
+  <tr>
+    <td>🏀 <a href="https://github.com/wilderjett250-art/018-basketball-camp-management">Basketball Camp</a></td>
+    <td>Vue 前台、Vue 管理后台与 Spring Boot 后端组成的训练营系统。</td>
+    <td>Vue · Java · MySQL</td>
+  </tr>
+  <tr>
+    <td>🚗 <a href="https://github.com/wilderjett250-art/016-license-plate-recognition">License Plate Recognition</a></td>
+    <td>面向中国车牌的检测、裁剪和 OCR 识别实验。</td>
+    <td>Python · YOLO · OCR</td>
+  </tr>
+  <tr>
+    <td>🌙 <a href="https://github.com/wilderjett250-art/015-yolocar-night-person-car">Night Person/Car</a></td>
+    <td>夜间场景中的车辆与行人检测工具。</td>
+    <td>YOLO · Computer vision</td>
+  </tr>
+  <tr>
+    <td>🕰️ <a href="https://github.com/wilderjett250-art/006-qzone-history-recovery">Qzone History</a></td>
+    <td>从 QQ 空间活动记录中整理历史内容的本地工具。</td>
+    <td>Go · Desktop app</td>
+  </tr>
+</table>
 
-## 项目原则 · Project Principles
+## Tech I reach for
 
-1. 先解决问题，再追求技术。
-2. 重要结果必须有可复现的验证记录。
-3. 源码、说明、构建产物和版本信息保持对应。
-4. 注重小工具的使用体验。
+`Python` · `Kotlin` · `Java` · `TypeScript` · `Vue` · `ONNX` · `YOLO` · `IoT`
 
-1. Solve the problem before adding complexity.
-2. Important results should have reproducible verification.
-3. Keep source code, documentation, builds, and versions aligned.
-4. Small tools deserve careful organization and long-term maintenance.
+## Contact
 
-## 联系 · Contact
+[GitHub](https://github.com/wilderjett250-art) · [Email](mailto:wilderjett250@gmail.com) · QQ `2502175923`
 
-- GitHub: [@wilderjett250-art](https://github.com/wilderjett250-art)
-- Email: wilderjett250@gmail.com
-- QQ: 2502175923
+欢迎交流技术，也欢迎带来一个值得被做成小工具的真实问题。
 
-欢迎查看项目、提出建议，或者分享一个值得做成小工具的真实问题。
-
-Feel free to explore the projects, suggest improvements, or share a real problem that could become a useful small tool.
+<p align="center">
+  <sub>Ideas are cheap. A useful, pleasant tool is worth making.</sub>
+</p>
