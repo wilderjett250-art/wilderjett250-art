@@ -17,9 +17,17 @@
 
 ## What I'm building
 
-我主要做能解决真实问题的小项目：桌面工具、网站与后台、AI 应用、自动化脚本和物联网应用。
+但丁写下百篇诗章，铸成《神曲》。
 
-这 100 个项目不是为了堆数字，而是一次次把想法做成体验的练习：小一点、实一点、说清楚、跑起来，再持续变好。
+巴尔扎克写下百部小说，构筑《人间喜剧》。
+
+我要做一百个项目。
+
+Dante shaped a hundred poems into *The Divine Comedy*.
+
+Balzac built *La Comédie humaine* from a hundred novels.
+
+I will build one hundred projects.
 
 ## Selected projects
 
