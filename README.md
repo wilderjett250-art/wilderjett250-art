@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Horizon Quest To eXplore</strong><br />
-  一个持续做实用小工具的小作坊。<br />
+  持续做实用小工具。<br />
   专注效率，注重体验。
 </p>
 
