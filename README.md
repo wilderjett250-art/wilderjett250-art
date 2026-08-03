@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <strong>Horizon Quest To eXplore</strong><br />
   持续做实用小工具。<br />
   专注效率，注重体验。
 </p>
