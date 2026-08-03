@@ -4,7 +4,8 @@
 
 <p align="center">
   <strong>Horizon Quest To eXplore</strong><br />
-  一个持续做实用小工具的小作坊。专注效率，也在意每一次使用的感受。
+  一个持续做实用小工具的小作坊。<br />
+  专注效率，注重体验。
 </p>
 
 <p align="center">
@@ -13,8 +14,7 @@
   <img src="https://img.shields.io/badge/Build-Run%20%7C%20Ship%20%7C%20Improve-238636?style=flat-square" alt="Build run ship improve" />
 </p>
 
-> 昏暗的灯光下，把一次次犹豫和彷徨，慢慢做成可以运行、可以交付、也愿意被使用的东西。<br />
-> In long nights, turn uncertainty into something useful.
+> 萧瑟的秋风中，漫漫的长夜里，昏暗的灯光下，我的荧幕，我，我的键盘，多少次。
 
 ## What I'm building
 
