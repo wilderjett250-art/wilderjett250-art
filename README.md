@@ -22,16 +22,6 @@ I build small projects that solve real, everyday problems—from desktop utiliti
 - Giving small projects clear documentation, reproducible builds, and verifiable deliverables
 - Building a numbered project series from `001` to `100`
 
-## 精选项目 · Selected Project
-
-### [SeeThrough Skill](https://github.com/wilderjett250-art/seethrough-skill)
-
-一个 Windows 桌面工具，用于扫描和查看本机的 Codex、Claude Skill 与 MCP 配置，并以更容易理解的方式展示原生 `SKILL.md` 内容。
-
-A Windows desktop utility for scanning local Codex, Claude Skill, and MCP configurations, then presenting native `SKILL.md` content in a readable way.
-
-技术栈：Electron · JavaScript · HTML · CSS · PowerShell · GitHub Actions
-
 ## 项目原则 · Project Principles
 
 1. 先解决问题，再追求复杂度。
