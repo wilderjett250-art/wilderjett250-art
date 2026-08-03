@@ -1,9 +1,10 @@
 # Horizon Quest To eXplore
 
-一个持续做实用小工具的小作坊。
+持续做实用小工具的小作坊。
+
 专注效率与用户体验。
 
-我主要开发能够解决实际问题的小项目：桌面工具、网站、后台系统、AI 应用、自动化脚本、物联网应用，以及服务于日常工作的轻量工具。项目不追求复杂概念，而是注重真正可运行、可交付、可使用：帮助大家提高效率，节省时间和精力，并获得更顺畅、更愉快的使用体验。欢迎技术交流与经验分享。
+开发能够解决实际问题的小项目：桌面工具、网站、后台系统、AI 应用、自动化脚本、物联网应用，以及服务于日常工作的轻量工具。项目注重真正可运行、可交付、可使用：提高效率，节省时间和精力，并获得更顺畅、更愉快的使用体验。欢迎技术交流与经验分享。
 
 A small software workshop focused on practical tools.
 Focused on efficiency and user experience.
@@ -14,7 +15,7 @@ I build small projects that solve real, everyday problems—from desktop utiliti
 
 - 把真实需求整理成可以运行的工具
 - 记录从源码、测试到发布的完整过程
-- 让小项目拥有清晰的 README、可复现的构建方式和可验证的交付物
+- 记录清晰的 README、可复现的代码和便于使用的交付物
 - 持续维护一个从 `001` 到 `100` 的项目系列
 
 - Turning real needs into working tools
@@ -24,10 +25,10 @@ I build small projects that solve real, everyday problems—from desktop utiliti
 
 ## 项目原则 · Project Principles
 
-1. 先解决问题，再追求复杂度。
+1. 先解决问题，再追求技术。
 2. 重要结果必须有可复现的验证记录。
 3. 源码、说明、构建产物和版本信息保持对应。
-4. 小工具也值得被认真整理和长期维护。
+4. 注重小工具的使用体验。
 
 1. Solve the problem before adding complexity.
 2. Important results should have reproducible verification.
