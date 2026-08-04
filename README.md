@@ -35,38 +35,38 @@ I will build one hundred projects.
 
 <table>
   <tr>
-    <th>项目</th>
-    <th>一句话介绍</th>
-    <th>方向</th>
+    <th>项目<br />Project</th>
+    <th>一句话介绍<br />Description</th>
+    <th>方向<br />Focus</th>
   </tr>
   <tr>
     <td>🪟 <a href="https://github.com/wilderjett250-art/seethrough-skill">SeeThrough Skill</a></td>
-    <td>扫描并查看本机 Skill 与 MCP 配置的桌面工具。</td>
+    <td>扫描并查看本机 Skill 与 MCP 配置的桌面工具。<br />A desktop tool for scanning and viewing local Skill and MCP configurations.</td>
     <td>Electron · Local tools</td>
   </tr>
   <tr>
     <td>📱 <a href="https://github.com/wilderjett250-art/017-anzhuoface">AnZhuoFace</a></td>
-    <td>Android 端侧人脸检测、年龄段估计与性别辅助识别。</td>
+    <td>Android 端侧人脸检测、年龄段估计与性别辅助识别。<br />An offline Android tool for face detection, age-range estimation, and auxiliary gender classification.</td>
     <td>Kotlin · ONNX · Android</td>
   </tr>
   <tr>
     <td>🏀 <a href="https://github.com/wilderjett250-art/018-basketball-camp-management">Basketball Camp</a></td>
-    <td>Vue 前台、Vue 管理后台与 Spring Boot 后端组成的训练营系统。</td>
+    <td>Vue 前台、Vue 管理后台与 Spring Boot 后端组成的训练营系统。<br />A full-stack training camp management system built with Vue, Spring Boot, and MySQL.</td>
     <td>Vue · Java · MySQL</td>
   </tr>
   <tr>
     <td>🚗 <a href="https://github.com/wilderjett250-art/016-license-plate-recognition">License Plate Recognition</a></td>
-    <td>面向中国车牌的检测、裁剪和 OCR 识别实验。</td>
+    <td>面向中国车牌的检测、裁剪和 OCR 识别实验。<br />An experiment for Chinese license plate detection, cropping, and OCR recognition.</td>
     <td>Python · YOLO · OCR</td>
   </tr>
   <tr>
     <td>🌙 <a href="https://github.com/wilderjett250-art/015-yolocar-night-person-car">Night Person/Car</a></td>
-    <td>夜间场景中的车辆与行人检测工具。</td>
+    <td>夜间场景中的车辆与行人检测工具。<br />A YOLO-based vehicle and pedestrian detection tool for night scenes.</td>
     <td>YOLO · Computer vision</td>
   </tr>
   <tr>
     <td>🕰️ <a href="https://github.com/wilderjett250-art/006-qzone-history-recovery">Qzone History</a></td>
-    <td>从 QQ 空间活动记录中整理历史内容的本地工具。</td>
+    <td>从 QQ 空间活动记录中整理历史内容的本地工具。<br />A local tool for organizing historical content from QQ Zone activity records.</td>
     <td>Go · Desktop app</td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ I will build one hundred projects.
 
 [GitHub](https://github.com/wilderjett250-art) · [Email](mailto:wilderjett250@gmail.com) · QQ `2502175923`
 
-欢迎交流技术，也欢迎带来一个值得被做成小工具的真实问题。
+欢迎交流技术，也欢迎带来一个值得被做成小工具的真实问题。<br />Open to technical exchange and real problems worth turning into useful tools.
 
 <p align="center">
   <sub>Ideas are cheap. A useful, pleasant tool is worth making.</sub>
