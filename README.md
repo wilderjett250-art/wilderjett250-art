@@ -4,7 +4,9 @@
 
 <p align="center">
   持续做实用小工具。<br />
-  专注效率，注重体验。
+  专注效率，注重体验。<br />
+  Building practical tools continuously.<br />
+  Focused on efficiency, with care for the user experience.
 </p>
 
 <p align="center">
