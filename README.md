@@ -81,7 +81,7 @@ I will build one hundred projects.
 
 [GitHub](https://github.com/wilderjett250-art) · [Email](mailto:wilderjett250@gmail.com) · QQ `2502175923`
 
-欢迎交流技术，也欢迎带来一个值得被做成小工具的真实问题。<br />Open to technical exchange and real problems worth turning into useful tools.
+欢迎交流技术。<br />Open to technical exchange.
 
 <p align="center">
   <sub>Ideas are cheap. A useful, pleasant tool is worth making.</sub>
