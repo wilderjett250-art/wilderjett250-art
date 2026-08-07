@@ -38,7 +38,7 @@ I will build one hundred projects.
 <table>
   <tr>
     <th>项目<br />Project</th>
-    <th>一句话介绍<br />Description</th>
+    <th>介绍<br />Description</th>
     <th>方向<br />Focus</th>
   </tr>
   <tr>
