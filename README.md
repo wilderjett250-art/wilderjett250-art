@@ -42,33 +42,48 @@ I will build one hundred projects.
     <th>方向<br />Focus</th>
   </tr>
   <tr>
-    <td>🪟 <a href="https://github.com/wilderjett250-art/seethrough-skill">SeeThrough Skill</a></td>
-    <td>扫描并查看本机 Skill 与 MCP 配置的桌面工具。<br />A desktop tool for scanning and viewing local Skill and MCP configurations.</td>
+    <td>🛰️ <a href="https://github.com/wilderjett250-art/024-market-intelligence">024 · 市场情报终端<br />Market Intelligence</a></td>
+    <td>聚合公开新闻、来源证据和 AI 研判，形成可追溯的信息工作流。<br />A traceable workflow for public news, evidence checks, and scheduled AI analysis.</td>
+    <td>Python · RSS · DeepSeek</td>
+  </tr>
+  <tr>
+    <td>🖼️ <a href="https://github.com/wilderjett250-art/020-smart-canvas">020 · 画布智能裁剪<br />Smart Canvas</a></td>
+    <td>自动定位画布、透视校正并批量导出平整图片。<br />Detects canvases, corrects perspective, and exports clean batches.</td>
+    <td>YOLO-World · MobileSAM</td>
+  </tr>
+  <tr>
+    <td>🔥 <a href="https://github.com/wilderjett250-art/021-firevision">021 · FireVision</a></td>
+    <td>把 YOLO 推理、前后端、摄像头和预警记录串成完整应用。<br />A full application connecting YOLO inference, web clients, cameras, and alerts.</td>
+    <td>YOLO · Vue · Spring Boot</td>
+  </tr>
+  <tr>
+    <td>🪟 <a href="https://github.com/wilderjett250-art/014-seethrough-skill">014 · 技能透视<br />SeeThrough Skill</a></td>
+    <td>只读查看本机 Codex、Claude Skill 与 MCP 配置。<br />A read-only viewer for local Codex, Claude Skills, and MCP configuration.</td>
     <td>Electron · Local tools</td>
   </tr>
   <tr>
-    <td>📱 <a href="https://github.com/wilderjett250-art/017-anzhuoface">AnZhuoFace</a></td>
-    <td>Android 端侧人脸检测、年龄段估计与性别辅助识别。<br />An offline Android tool for face detection, age-range estimation, and auxiliary gender classification.</td>
+    <td>📱 <a href="https://github.com/wilderjett250-art/017-android-face-age">017 · 端侧人脸分析<br />Android Face AI</a></td>
+    <td>在 Android 本地完成端侧人脸检测与年龄段估计。<br />Performs local Android face detection and age-range estimation.</td>
     <td>Kotlin · ONNX · Android</td>
   </tr>
   <tr>
-    <td>🏀 <a href="https://github.com/wilderjett250-art/018-basketball-camp-management">Basketball Camp</a></td>
-    <td>Vue 前台、Vue 管理后台与 Spring Boot 后端组成的训练营系统。<br />A full-stack training camp management system built with Vue, Spring Boot, and MySQL.</td>
+    <td>🏀 <a href="https://github.com/wilderjett250-art/018-basketball-camp">018 · 篮球训练营<br />Basketball Camp</a></td>
+    <td>训练营、人员、预约、比赛和论坛组成的全栈管理系统。<br />A full-stack system for camps, people, bookings, matches, and forums.</td>
     <td>Vue · Java · MySQL</td>
   </tr>
   <tr>
-    <td>🚗 <a href="https://github.com/wilderjett250-art/016-license-plate-recognition">License Plate Recognition</a></td>
-    <td>面向中国车牌的检测、裁剪和 OCR 识别实验。<br />An experiment for Chinese license plate detection, cropping, and OCR recognition.</td>
+    <td>🚗 <a href="https://github.com/wilderjett250-art/016-license-plate-ocr">016 · 中国车牌识别<br />License Plate OCR</a></td>
+    <td>定位车牌后裁剪识别文字，并分析颜色、车型和地区。<br />Localizes and crops plates, reads text, and analyzes color, type, and region.</td>
     <td>Python · YOLO · OCR</td>
   </tr>
   <tr>
-    <td>🌙 <a href="https://github.com/wilderjett250-art/015-yolocar-night-person-car">Night Person/Car</a></td>
-    <td>夜间场景中的车辆与行人检测工具。<br />A YOLO-based vehicle and pedestrian detection tool for night scenes.</td>
+    <td>🌙 <a href="https://github.com/wilderjett250-art/015-night-person-car">015 · 夜间人车检测<br />Night Person/Car</a></td>
+    <td>针对夜间场景训练并复现车辆、行人检测模型。<br />Trains and reproduces vehicle and person detection for night scenes.</td>
     <td>YOLO · Computer vision</td>
   </tr>
   <tr>
-    <td>🕰️ <a href="https://github.com/wilderjett250-art/006-qzone-history-recovery">Qzone History</a></td>
-    <td>从 QQ 空间活动记录中整理历史内容的本地工具。<br />A local tool for organizing historical content from QQ Zone activity records.</td>
+    <td>🕰️ <a href="https://github.com/wilderjett250-art/006-qzone-history">006 · QQ 空间历史<br />Qzone History</a></td>
+    <td>扫码登录、深度扫描并导出可离线保存的历史归档。<br />Scans, reconstructs, and exports an offline historical archive.</td>
     <td>Go · Desktop app</td>
   </tr>
 </table>
