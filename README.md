@@ -42,6 +42,11 @@ I will build one hundred projects.
     <th>方向<br />Focus</th>
   </tr>
   <tr>
+    <td>📈 <a href="https://github.com/wilderjett250-art/001-stock-chart">001 · 股票交易平台 3.0<br />Stock Trading Platform</a></td>
+    <td>Java 后端与四套 Vue 客户端组成的多端交易平台，覆盖行情、股票页面、管理/代理/H5/PC Web，并验证分时图交易日适配。<br />A multi-client trading platform with a Java backend, four Vue clients, market views, and trading-day-aware intraday charts.</td>
+    <td>Java · Vue · MyBatis</td>
+  </tr>
+  <tr>
     <td>🛰️ <a href="https://github.com/wilderjett250-art/024-market-intelligence">024 · 市场情报终端<br />Market Intelligence</a></td>
     <td>聚合公开新闻、来源证据和 AI 研判，形成可追溯的信息工作流。<br />A traceable workflow for public news, evidence checks, and scheduled AI analysis.</td>
     <td>Python · RSS · DeepSeek</td>
