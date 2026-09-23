@@ -43,6 +43,13 @@ I will build one hundred projects.
 | 📈 [001 · 股票交易平台 3.0](https://github.com/wilderjett250-art/001-stock-chart) | Java 后端连接管理端、代理端、H5/WAP 与 PC Web；分时图按有效交易日展示。<br />A Java backend serving admin, agent, H5/WAP, and PC Web clients, with trading-day-aware intraday charts. | Java · Spring MVC · MyBatis · Vue |
 | 📱 [017 · Android 端侧人脸分析](https://github.com/wilderjett250-art/017-android-face-age) | 在 Android 设备本地运行 ONNX 人脸分析，支持图片、摄像头与本地视频。<br />Runs ONNX face analysis on Android, with image, camera, and local-video input. | Kotlin · Android · ONNX |
 
+### 视觉与模型应用 · Vision & Model Applications
+
+| 项目 Project | 做什么 What it does | 技术 Focus |
+|---|---|---|
+| 🖼️ [020 · 智能画布裁剪](https://github.com/wilderjett250-art/020-smart-canvas) | 定位画布边缘、透视校正并批量导出统一比例的图片。<br />Finds canvas edges, corrects perspective, and batch-exports consistently sized images. | YOLO-World · MobileSAM · OpenCV |
+| 🚗 [016 · 中国车牌识别](https://github.com/wilderjett250-art/016-license-plate-ocr) | 先定位并裁剪车牌，再进行 OCR；附带颜色、地区等基础分析。<br />Localizes and crops plates before OCR, with basic color and region analysis. | YOLO · OCR · Computer vision |
+
 ## Tech I reach for
 
 `Python` · `Kotlin` · `Java` · `TypeScript` · `Vue` · `ONNX` · `YOLO` · `IoT`
