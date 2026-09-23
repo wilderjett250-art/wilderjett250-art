@@ -35,63 +35,29 @@ I will build one hundred projects.
 
 ## Selected projects
 
-<table>
-  <tr>
-    <th>项目<br />Project</th>
-    <th>介绍<br />Description</th>
-    <th>方向<br />Focus</th>
-  </tr>
-  <tr>
-    <td>📈 <a href="https://github.com/wilderjett250-art/001-stock-chart">001 · 股票交易平台 3.0<br />Stock Trading Platform</a></td>
-    <td>Java 后端与四套 Vue 客户端组成的多端交易平台，覆盖行情、股票页面、管理/代理/H5/PC Web，并验证分时图交易日适配。<br />A multi-client trading platform with a Java backend, four Vue clients, market views, and trading-day-aware intraday charts.</td>
-    <td>Java · Vue · MyBatis</td>
-  </tr>
-  <tr>
-    <td>🛰️ <a href="https://github.com/wilderjett250-art/024-market-intelligence">024 · 市场情报终端<br />Market Intelligence</a></td>
-    <td>聚合公开新闻、来源证据和 AI 研判，形成可追溯的信息工作流。<br />A traceable workflow for public news, evidence checks, and scheduled AI analysis.</td>
-    <td>Python · RSS · DeepSeek</td>
-  </tr>
-  <tr>
-    <td>🖼️ <a href="https://github.com/wilderjett250-art/020-smart-canvas">020 · 画布智能裁剪<br />Smart Canvas</a></td>
-    <td>自动定位画布、透视校正并批量导出平整图片。<br />Detects canvases, corrects perspective, and exports clean batches.</td>
-    <td>YOLO-World · MobileSAM</td>
-  </tr>
-  <tr>
-    <td>🔥 <a href="https://github.com/wilderjett250-art/021-firevision">021 · FireVision</a></td>
-    <td>把 YOLO 推理、前后端、摄像头和预警记录串成完整应用。<br />A full application connecting YOLO inference, web clients, cameras, and alerts.</td>
-    <td>YOLO · Vue · Spring Boot</td>
-  </tr>
-  <tr>
-    <td>🪟 <a href="https://github.com/wilderjett250-art/014-seethrough-skill">014 · 技能透视<br />SeeThrough Skill</a></td>
-    <td>只读查看本机 Codex、Claude Skill 与 MCP 配置。<br />A read-only viewer for local Codex, Claude Skills, and MCP configuration.</td>
-    <td>Electron · Local tools</td>
-  </tr>
-  <tr>
-    <td>📱 <a href="https://github.com/wilderjett250-art/017-android-face-age">017 · 端侧人脸分析<br />Android Face AI</a></td>
-    <td>在 Android 本地完成端侧人脸检测与年龄段估计。<br />Performs local Android face detection and age-range estimation.</td>
-    <td>Kotlin · ONNX · Android</td>
-  </tr>
-  <tr>
-    <td>🏀 <a href="https://github.com/wilderjett250-art/018-basketball-camp">018 · 篮球训练营<br />Basketball Camp</a></td>
-    <td>训练营、人员、预约、比赛和论坛组成的全栈管理系统。<br />A full-stack system for camps, people, bookings, matches, and forums.</td>
-    <td>Vue · Java · MySQL</td>
-  </tr>
-  <tr>
-    <td>🚗 <a href="https://github.com/wilderjett250-art/016-license-plate-ocr">016 · 中国车牌识别<br />License Plate OCR</a></td>
-    <td>定位车牌后裁剪识别文字，并分析颜色、车型和地区。<br />Localizes and crops plates, reads text, and analyzes color, type, and region.</td>
-    <td>Python · YOLO · OCR</td>
-  </tr>
-  <tr>
-    <td>🌙 <a href="https://github.com/wilderjett250-art/015-night-person-car">015 · 夜间人车检测<br />Night Person/Car</a></td>
-    <td>针对夜间场景训练并复现车辆、行人检测模型。<br />Trains and reproduces vehicle and person detection for night scenes.</td>
-    <td>YOLO · Computer vision</td>
-  </tr>
-  <tr>
-    <td>🕰️ <a href="https://github.com/wilderjett250-art/006-qzone-history">006 · QQ 空间历史<br />Qzone History</a></td>
-    <td>扫码登录、深度扫描并导出可离线保存的历史归档。<br />Scans, reconstructs, and exports an offline historical archive.</td>
-    <td>Go · Desktop app</td>
-  </tr>
-</table>
+| 项目 Project | 做什么 What it does | 技术 Focus |
+|---|---|---|
+| 🧠 [026 · 知域｜本地 RAG 知识库](https://github.com/wilderjett250-art/026-zhishu-knowledge-base) | 把本机文件、笔记和自行导出的聊天整理成可搜索资料；可按词句或内容含义查找，并回到来源文件核对。<br />Organizes local files, notes, and user-exported chats for search by terms or meaning, with source links for verification. | Python · SQLite FTS5 · Qdrant · MCP |
+| 🛰️ [024 · 市场情报终端](https://github.com/wilderjett250-art/024-market-intelligence) | 汇总公开新闻与视频，保留来源和时间窗口，生成可回看的市场研判。<br />Turns public news and videos into source-linked, time-bounded analysis that can be revisited. | Python · RSS · AI video understanding |
+| 🪟 [014 · SeeThrough Skill](https://github.com/wilderjett250-art/014-seethrough-skill) | 用 Windows 桌面工具只读查看本机 Codex、Claude Skill 与 MCP 配置。<br />A read-only Windows viewer for local Codex, Claude Skills, and MCP settings. | Electron · Codex · Claude · MCP |
+| 📈 [001 · 股票交易平台 3.0](https://github.com/wilderjett250-art/001-stock-chart) | Java 后端连接管理端、代理端、H5/WAP 与 PC Web；分时图按有效交易日展示。<br />A Java backend serving admin, agent, H5/WAP, and PC Web clients, with trading-day-aware intraday charts. | Java · Spring MVC · MyBatis · Vue |
+| 📱 [017 · Android 端侧人脸分析](https://github.com/wilderjett250-art/017-android-face-age) | 在 Android 设备本地运行 ONNX 人脸分析，支持图片、摄像头与本地视频。<br />Runs ONNX face analysis on Android, with image, camera, and local-video input. | Kotlin · Android · ONNX |
+
+### 视觉与模型应用 · Vision & Model Applications
+
+| 项目 Project | 做什么 What it does | 技术 Focus |
+|---|---|---|
+| 🖼️ [020 · 智能画布裁剪](https://github.com/wilderjett250-art/020-smart-canvas) | 定位画布边缘、透视校正并批量导出统一比例的图片。<br />Finds canvas edges, corrects perspective, and batch-exports consistently sized images. | YOLO-World · MobileSAM · OpenCV |
+| 🚗 [016 · 中国车牌识别](https://github.com/wilderjett250-art/016-license-plate-ocr) | 先定位并裁剪车牌，再进行 OCR；附带颜色、地区等基础分析。<br />Localizes and crops plates before OCR, with basic color and region analysis. | YOLO · OCR · Computer vision |
+
+### 其他项目 · More Projects
+
+| 项目 Project | 做什么 What it does | 技术 Focus |
+|---|---|---|
+| 🔥 [021 · FireVision](https://github.com/wilderjett250-art/021-firevision) | 将 YOLO 推理、网页端、摄像头和预警记录连成一套应用。<br />Connects YOLO inference, web clients, cameras, and alert records in one application. | YOLO · Vue · Spring Boot |
+| 🏀 [018 · 篮球训练营](https://github.com/wilderjett250-art/018-basketball-camp) | 管理训练营、人员、预约、比赛和论坛。<br />Manages camps, people, bookings, matches, and forums. | Vue · Java · MySQL |
+| 🌙 [015 · 夜间人车检测](https://github.com/wilderjett250-art/015-night-person-car) | 训练并复现面向夜间场景的车辆与行人检测。<br />Trains and reproduces vehicle and person detection for night scenes. | YOLO · Computer vision |
+| 🕰️ [006 · QQ 空间历史](https://github.com/wilderjett250-art/006-qzone-history) | 扫描并导出可离线保存的 QQ 空间历史归档。<br />Scans and exports an offline archive of Qzone history. | Go · Desktop app |
 
 ## Tech I reach for
 
