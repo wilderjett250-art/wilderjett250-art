@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/Build-Run%20%7C%20Ship%20%7C%20Improve-238636?style=flat-square" alt="Build run ship improve" />
 </p>
 
-> 萧瑟的秋风中，漫漫的长夜里，昏暗的灯光下，我的荧幕，我，我的键盘，多少次。
->
-> In the bleak autumn wind, through the long nights, beneath a dim light, it is my screen, my hands, and my keyboard—again and again.
-
 ## What I'm building
 
 但丁写下百篇诗章，铸成《神曲》。
