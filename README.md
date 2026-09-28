@@ -40,17 +40,3 @@ I will build one hundred projects.
 | 📱 [017 · Android 端侧人脸分析](https://github.com/wilderjett250-art/017-android-face-age) | 在 Android 设备本地运行 ONNX 人脸分析，支持图片、摄像头与本地视频。<br />Runs ONNX face analysis on Android, with image, camera, and local-video input. | Kotlin · Android · ONNX |
 | 🖼️ [020 · 智能画布裁剪](https://github.com/wilderjett250-art/020-smart-canvas) | 定位画布边缘、透视校正并批量导出统一比例的图片。<br />Finds canvas edges, corrects perspective, and batch-exports consistently sized images. | YOLO-World · MobileSAM · OpenCV |
 | 🚗 [016 · 中国车牌识别](https://github.com/wilderjett250-art/016-license-plate-ocr) | 先定位并裁剪车牌，再进行 OCR；附带颜色、地区等基础分析。<br />Localizes and crops plates before OCR, with basic color and region analysis. | YOLO · OCR · Computer vision |
-
-## Tech I reach for
-
-`Python` · `Kotlin` · `Java` · `TypeScript` · `Vue` · `ONNX` · `YOLO` · `IoT`
-
-## Contact
-
-[GitHub](https://github.com/wilderjett250-art) · [Email](mailto:wilderjett250@gmail.com) · QQ `2502175923`
-
-欢迎交流技术。<br />Open to technical exchange.
-
-<p align="center">
-  <sub>Ideas are cheap. A useful, pleasant tool is worth making.</sub>
-</p>
